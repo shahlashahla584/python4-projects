@@ -127,7 +127,7 @@ class BookCollection:
 
     def start_application(self):
         """Run the main application loop with a user-friendly menu interface."""
-        while True:
+        while True: 
             print("📚 Welcome to Your Book Collection Manager! 📚")
             print("1. Add a new book")
             print("2. Remove a book")
